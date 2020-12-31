@@ -1,0 +1,35 @@
+body.black{
+	background-color: black;
+	color: white;
+}
+body.white{
+	background-color: white;
+	color:black;
+}
+header{
+			border-bottom: 1px solid gray;
+			padding:20px;
+		}
+		nav{
+			width: 200px;
+			height: 600px;
+			float: left;
+			border-right: 1px solid gray;
+		}
+		nav ol{
+			list-style: none;
+		}
+		nav li{
+			padding-bottom: 20px;
+		}
+		article{
+			float: left;
+			padding-left: 20px;
+		}
+		h2{
+			color: #ffffff;
+			font-size: 30px;
+		}
+		#control{
+			float: right;
+		}
